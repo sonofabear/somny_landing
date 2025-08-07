@@ -5,4 +5,4 @@
 ## 🔗 Try the AI Character Generator  
 👉 [https://somny.com](https://somny.com)
 
-Resource: https://coda.io/@scott-veltkamp/my-first-coda-doc
+📄 Learn more in the [Somny AI Character Generator Resource Doc](https://coda.io/@scott-veltkamp/my-first-coda-doc)
